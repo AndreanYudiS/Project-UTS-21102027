@@ -76,7 +76,7 @@
  <!-- footer -->
  <footer>
   <div class="container">
-   <small>Copyright &copy; 2020 - Dzulfikar. All Rights Reserved.</small>
+   <small>Copyright &copy; 2022 - Andre Yudi. All Rights Reserved.</small>
   </div>
  </footer>
  <script type="text/javascript">
